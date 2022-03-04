@@ -1,21 +1,22 @@
 {
   "files": {
-    "main.css": "/clean-ocean/static/css/main.66e73fd0.css",
-    "main.js": "/clean-ocean/static/js/main.e14fea01.js",
+    "main.css": "/clean-ocean/static/css/main.6bf54d26.css",
+    "main.js": "/clean-ocean/static/js/main.f794fd81.js",
     "static/js/787.fc4eb7c5.chunk.js": "/clean-ocean/static/js/787.fc4eb7c5.chunk.js",
     "static/media/1123.PNG": "/clean-ocean/static/media/1123.95435d6a69367ca271a1.PNG",
     "static/media/201588236___n.jpg": "/clean-ocean/static/media/201588236_2251508324985437_678393345566770122_n.3d29dfc4f312e509ebff.jpg",
     "static/media/pngwing.com (2).png": "/clean-ocean/static/media/pngwing.com (2).4332b55059b7a21b8c7a.png",
     "static/media/FB_IMG_1645310678097.jpg": "/clean-ocean/static/media/FB_IMG_1645310678097.af0d0103f18902297338.jpg",
+    "static/media/180186183_111936717706656__n.jpg": "/clean-ocean/static/media/180186183_111936717706656_1948558735950278584_n.7085c4115818fba1cd50.jpg",
     "static/media/198030912___n-2.jpg": "/clean-ocean/static/media/198030912_2249794015156868_1377223952098544743_n-2.d21fe8e0201625d51752.jpg",
     "static/media/logo1-removebg-preview.png": "/clean-ocean/static/media/logo1-removebg-preview.67ad8bddf271b00025ed.png",
     "index.html": "/clean-ocean/index.html",
-    "main.66e73fd0.css.map": "/clean-ocean/static/css/main.66e73fd0.css.map",
-    "main.e14fea01.js.map": "/clean-ocean/static/js/main.e14fea01.js.map",
+    "main.6bf54d26.css.map": "/clean-ocean/static/css/main.6bf54d26.css.map",
+    "main.f794fd81.js.map": "/clean-ocean/static/js/main.f794fd81.js.map",
     "787.fc4eb7c5.chunk.js.map": "/clean-ocean/static/js/787.fc4eb7c5.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.66e73fd0.css",
-    "static/js/main.e14fea01.js"
+    "static/css/main.6bf54d26.css",
+    "static/js/main.f794fd81.js"
   ]
 }
