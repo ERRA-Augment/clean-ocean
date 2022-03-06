@@ -1,9 +1,9 @@
 {
   "files": {
     "main.css": "/clean-ocean/static/css/main.6bf54d26.css",
-    "main.js": "/clean-ocean/static/js/main.f794fd81.js",
+    "main.js": "/clean-ocean/static/js/main.3ae89435.js",
     "static/js/787.fc4eb7c5.chunk.js": "/clean-ocean/static/js/787.fc4eb7c5.chunk.js",
-    "static/media/1123.PNG": "/clean-ocean/static/media/1123.95435d6a69367ca271a1.PNG",
+    "static/media/1123.PNG": "/clean-ocean/static/media/1123.a4dfffd8961dd8549c67.PNG",
     "static/media/201588236___n.jpg": "/clean-ocean/static/media/201588236_2251508324985437_678393345566770122_n.3d29dfc4f312e509ebff.jpg",
     "static/media/pngwing.com (2).png": "/clean-ocean/static/media/pngwing.com (2).4332b55059b7a21b8c7a.png",
     "static/media/FB_IMG_1645310678097.jpg": "/clean-ocean/static/media/FB_IMG_1645310678097.af0d0103f18902297338.jpg",
@@ -12,11 +12,11 @@
     "static/media/logo1-removebg-preview.png": "/clean-ocean/static/media/logo1-removebg-preview.67ad8bddf271b00025ed.png",
     "index.html": "/clean-ocean/index.html",
     "main.6bf54d26.css.map": "/clean-ocean/static/css/main.6bf54d26.css.map",
-    "main.f794fd81.js.map": "/clean-ocean/static/js/main.f794fd81.js.map",
+    "main.3ae89435.js.map": "/clean-ocean/static/js/main.3ae89435.js.map",
     "787.fc4eb7c5.chunk.js.map": "/clean-ocean/static/js/787.fc4eb7c5.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.6bf54d26.css",
-    "static/js/main.f794fd81.js"
+    "static/js/main.3ae89435.js"
   ]
 }
